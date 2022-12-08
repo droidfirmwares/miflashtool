@@ -1,4 +1,4 @@
-# miflashtool
+# MiFlash tool 
 Xiaomi Flash Tool is a software that helps the users to flash the stock firmware. This tool installs MIUI firmware on Xiaomi smartphones or tablets. 
 
 The newer versions of Xiaomi Mi Flash Tool come as a portable installer. Hence you don’t have to go through the setup, double-click the XiaomiFlash.exe, and the tool will be launched in no time.
