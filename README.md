@@ -12,3 +12,5 @@ Clean All: Wipes all the data from your device, the bootloader stays unlocked.
 Save user Data: As the name suggests, it won’t format your data. Furthermore, the bootloader also remains intact, i.e., unlocked.
 
 Clean All and Lock: It will wipe off all the data and relock the device’s bootloader.
+
+**Credits: ** Xiaomi MiFlash Tool is created and distributed by Xiaomi, Inc. So, Full credit goes to them for sharing the tool for free.
